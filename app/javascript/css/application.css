@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "./base/_fonts.scss";
+@import "./base/_typography.scss";
+@import "./base/_transition.scss";
+@import "./base/_grid.scss";
+@import "./base/_space.scss";
+@import "./base/_link.scss";
